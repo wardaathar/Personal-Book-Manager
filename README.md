@@ -1,4 +1,4 @@
-# 📚 Personal Library Manager
+# 📚 Personal Book Manager
 
 This is a simple **Streamlit app** to help you manage your personal book collection. You can view your saved books, add new ones, and store them in a JSON file locally.
 
